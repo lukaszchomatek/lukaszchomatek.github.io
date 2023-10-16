@@ -1,0 +1,21 @@
+﻿Treść reklamacji
+
+Nie mogłem wykonać [PRODUKT]  Dzień dobry, chciałem przelać pieniądze z konta żony na swoje, zamiast tego przelew trafił na konto walutowe. Prosze o wycofanie tego przelewu bo zmienil sie w dolary i to jeszcze został wykonany po jakimś absurdalnym kursie [LICZBA], gdzie nawet sami proponujecie [LICZBA] (a sprzedaz [LICZBA]). Nie mogę więc sam go wycofać sorzedając dolary. Przelew mial byc na piątkowe zlecenia stałe, a teraz nie mam na nie złotówek.
+
+Klientka potwierdza powiadomienie autoryzacyjne w aplikacji, po czym gdy wraca na stronę, widnieje informacja przyjęto do realizacji, ale problem pojawia się od [DATA]. za każdym razem tak samo płatność nie dochodzi do skutku. Płatność przez [FIRMA].
+
+Klient chce żeby środki przeznaczone na spłatę [PRODUKT] poprawnie schodzi z konta. Klient ma zapewnione [LICZBA] raty do przodu na rachunku do obsługi a i tak musi przelać środki bo rata nie ściąga się automatycznie dopiero po przelewie 
+
+Przelew w PLN do mnie nie dotarł  Konto nadawcy i odbiorcy to [FIRMA], wykonano przelew na telefon i pieniądze wyparowały - jest brzydki błąd w systemie rozliczeń. Nadawca po zalogowaniu sie na swoje konto na własne ID widzi na liście płatności wykonany przelew, odbiorca, który ma również dostęp do tego samego konta nadawcy nie widzi ani przelewu wysłanego, ani odebranego.
+
+Przelew nie dotarł do odbiorcy  Usiłowałem kupić bilet kolejowy za pomocą serwisu [FIRMA] i płatnością [FIRMA] lecz transakcja nie przebiegła prawidłowo i biletu nie udało mi się kupić. Natomiast należność za bilet potrącono z mojego konta. Proszę o zwrot nienależnie pobranych środków.
+
+Przelew nie dotarł do odbiorcy  W dniu [DATA] przesłałem przelew na numer telefonu [NR_TEL] na kwotę [LICZBA] zł. Przelew nie dotarł do odbiorcy, jak również kwota nie została mi zwrócona. Proszę o informacje gdzie trafiły środki, oraz czy mogę je odzyskać. 
+
+Mam kilkukrotnie pobrane pieniądze z konta, a płaciłem tylko raz  Dostałam dwa smsy ze zduplikowaną tranzakcją, różniły się one o [LICZBA]gr, prawidłowa jest ta za [LICZBA] zł. Sprawdzałam także dla pewności na [FIRMA], ale zamówiłam tylko jeden przedmiot za kwotę [LICZBA] zł.
+
+Klient reklamuje fakt iż, podczas dodawania przelewów do koszyka przelewów tworzą się osobne koszyki do różnych rachunków a nie jest to widoczne w IB, jeżeli nie sprawdzi się wszystkich konto to można nie zauważyć odpowiedniego koszyka. Dodatkowo, klient zlecał przelewy do koszyka z jednego rachunku, a trafiły na dwa różne rachunki. Klient prosi o wyjaśnienie, sprawdzenie i naprawienie funkcjonalności. Klient nie ma możliwości, edytowania przelewu w koszyku płatności co też mogło by zostać wprowadzone.    Reklamacja na życzenie.   
+
+Brak odpowiadającej kategorii. Rejestruje w najbardziej pasującej.   Klient próbuje połączyć swoje konto [FIRMA] ze stroną [FIRMA] za pomocą API, Po zalogowaniu się na konto i potwierdzeniu autoryzacji klient na stronie banku otrzymuje informacje z błędem oraz prośbą o kontakt z supportem. Klient prześle zrzut ekranu obrazujący problem na [MAIL].
+
+Szanowni Państwo,  reklamacja zakończenia reklamacji [ID_REKLAMACJI].  Zgłoszona do Państwa reklamacja [ID_REKLAMACJI] była reklamacją powiązaną z innymi.  Do dnia dzisiejszego żadne ze zgłoszeń nie zostało przez Państwa rozwiązane.  Reklamację proszę zamknąć TYLKO  w przypadku jej ROZWIĄZANIA. Powyższa reklamacja NIE została rozwiązana.  Mam nadzieję, że powyższa informacja będzie dla Państwa zrozumiała.  Pozdrawiam serdecznie, [IMIE] [NAZWISKO] Dzień dobry,      w swoim zgłoszeniu prosił Pan o odblokowanie rachunków, ponieważ nie mógł wykonywać Pan przelewów. Potwierdzamy informacje, które przekazaliśmy Panu w poprzednich odpowiedziach. Nie blokujemy Pana kont, co oznacza, że może Pan wykonywać przelewy. Jeśli nie może Pan tego robić, prosimy kole
